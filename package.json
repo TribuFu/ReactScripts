@@ -4,14 +4,14 @@
   "description": "Custom configuration and scripts for TribuFu React apps.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TribuFu/react-scripts"
+    "url": "https://github.com/TribuFu/ReactScripts"
   },
   "license": "MIT",
   "engines": {
     "node": "^10.12.0 || >=12.0.0"
   },
   "bugs": {
-    "url": "https://github.com/TribuFu/react-scripts/issues"
+    "url": "https://github.com/TribuFu/ReactScripts/issues"
   },
   "files": [
     "bin",
