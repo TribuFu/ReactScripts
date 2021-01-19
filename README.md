@@ -1,8 +1,7 @@
-# React Scripts
+# react-scripts
 
-This package includes custom scripts and configuration used by TribuFu in React apps.
+This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
+Please refer to its documentation:
 
-## Custom Folder Structure
-
-- `public` renamed to `Public`
-- `src` renamed to `Source`
+- [Getting Started](https://facebook.github.io/create-react-app/docs/getting-started) – How to create a new app.
+- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
